@@ -1,0 +1,13 @@
+React Testing Library + JEST + TDD(Test Driven Development)
+
+Testing is like checking your work before you turn it in. Imagine you are writing an essay in school, you want to make sure that your grammar and spelling is correct, that you've answered the question completely, and that your essay makes sense. Similarly, when you write code, you want to make sure that it works correctly and that it doesn't break anything else in your program.
+
+React Testing Library and Jest are tools that help you test your code. React Testing Library makes it easy to test how users interact with your code. Jest is a tool that runs your tests and checks if your code works as expected. Together, these tools help you find and fix bugs in your code before you release it to the public.
+
+In simpler terms, React Testing Library and Jest are tools that help you check your code for mistakes and make sure it works correctly. It's like having a teacher check your essay before you turn it in to make sure everything is correct.
+
+Unit Testing :- If only a component is tested individual or in a isolation way;
+Integration Testing :- If we write test cases for one or more component interact with eachother;
+End To End Testing :- In this we need a browser to automate; 
+
+TDD :- means sab se pehle ham log sare test cases write krlenge components se related and then check karenge wo ware cases fail hone chayie and then functionality implement karenge and then phr se run karenge aur check karenge wo sare test cases pass hoarahe ha ke nahi. This approach is called Test Driven Development (TDD); Phele test case likho phr uske baad functionality implement karu;
